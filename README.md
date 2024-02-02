@@ -4,7 +4,7 @@ Welcome to my React shopping cart! This web application allows users to explore 
 
 Used libs : React-redux, Vite, Tailwindcss
 
-view live : https://65bd23a8890c7618a787ef63--imaginative-puppy-253187.netlify.app
+view live : https://imaginative-puppy-253187.netlify.app
 
 ## Table of Contents
 
